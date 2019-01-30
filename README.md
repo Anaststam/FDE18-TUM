@@ -1,6 +1,6 @@
-FDE Bonus Projects
+## FDE Bonus Project
 
-Task 1
+## Task 1
 Implement the avg function and constructor in src/JoinQuery.cpp. See the corresponding header include/JoinQuery.hpp
 for documentation of this function. All solutions that compute correct results
 and achieve a time measurement better than 15 seconds on the leaderboard will be accepted for
@@ -11,19 +11,6 @@ Details about the machine this will be executed on: Intel(R) Core(TM) i7-3930K C
 You can use the test provided in test/JoinQuery.cpp to check if your implementation works
 correctly.
 When you do performance tuning, you may use and extend the benchmark suite in bench/JoinQuery.cpp.
-
-Build
-A configuration file is provided to build this project with CMake. This allows you to build the project
-in the terminal but also provides the option to use Jetbrains CLion or Microsoft Visual Studio and other
-IDEs.
-Building from Terminal:
-Start in the project directory.
-mkdir -p build/debug
-cd build/debug
-cmake -DCMAKE_BUILD_TYPE=Debug ../..
-make
-This creates the binaries test_all, bench and main.
-
 
 
 ## Build
