@@ -3,7 +3,7 @@
 
 
 ## Build
-A configuration file is provided to build this project with CMake. This allows you to build the project
+A configuration file is provided to build this project with CMake. This allows to build the project
 in the terminal but also provides the option to use Jetbrains CLion or Microsoft Visual Studio and other
 IDEs.
 
