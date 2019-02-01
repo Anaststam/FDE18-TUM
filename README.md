@@ -1,5 +1,7 @@
-##Project for the course Foundations in Data Engineering 2018-2019
-##Technical University of Munich
+-Project for the course Foundations in Data Engineering 2018-2019
+-Technical University of Munich
+
+
 
 A configuration file is provided to build this project with CMake. This allows to build the project
 in the terminal but also provides the option to use Jetbrains CLion or Microsoft Visual Studio and other
